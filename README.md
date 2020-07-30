@@ -1,2 +1,2 @@
 # Community-Server
-Community server built with Node.js
+Community server an api built with Node.js
